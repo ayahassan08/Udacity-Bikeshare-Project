@@ -1,0 +1,10 @@
+- https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-pandas-dataframe
+- https://stackoverflow.com/questions/60131336/datetime-series-property
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
+- Python Documentation
+- Other StackOverFlow Q&A to fix errors
+
+Review Update:
+-https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+
+
